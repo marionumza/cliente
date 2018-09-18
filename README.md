@@ -47,8 +47,9 @@ To use this docker compose file need:
 * Remove everything (containers and data) "docker-compose down -v"
 
 ## Puertos
- * Odoo: 9089
- * longpooling: 6072
+ * Odoo: 9161
+ * longpooling: 6161
+ * DBFILTER=sandrab_.*
 
 ## Links
 
